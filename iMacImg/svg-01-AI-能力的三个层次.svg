@@ -1,0 +1,40 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif" style="max-width:100%;height:auto;">
+  <rect width="720" height="260" fill="#f8f9fa" rx="12"/>
+  <text x="360" y="28" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a1a2e">AI 能力的三个层次</text>
+
+  <rect x="30" y="48" width="195" height="185" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <rect x="30" y="48" width="195" height="8" rx="10" fill="#95a5a6"/>
+  <text x="127" y="72" text-anchor="middle" font-size="13" font-weight="bold" fill="#7f8c8d">第一层：单次问答</text>
+  <text x="127" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="#95a5a6">Q &amp; A</text>
+  <text x="127" y="132" text-anchor="middle" font-size="10" fill="#555">用户输入 → LLM → 输出</text>
+  <text x="47" y="155" font-size="10" fill="#888">示例：</text>
+  <text x="47" y="170" font-size="10" fill="#888">"帮我写一首诗"</text>
+  <text x="47" y="190" font-size="10" fill="#e74c3c">局限：只能单步</text>
+  <text x="47" y="205" font-size="10" fill="#e74c3c">无法完成复杂任务</text>
+
+  <text x="241" y="148" font-size="22" fill="#bbb">→</text>
+
+  <rect x="263" y="48" width="195" height="185" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <rect x="263" y="48" width="195" height="8" rx="10" fill="#3498db"/>
+  <text x="360" y="72" text-anchor="middle" font-size="13" font-weight="bold" fill="#2980b9">第二层：Chain 链式调用</text>
+  <text x="360" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="#3498db">Chain</text>
+  <text x="360" y="132" text-anchor="middle" font-size="10" fill="#555">步骤A → 步骤B → 步骤C</text>
+  <text x="280" y="155" font-size="10" fill="#888">示例：</text>
+  <text x="280" y="170" font-size="10" fill="#888">翻译 → 摘要 → 润色</text>
+  <text x="280" y="190" font-size="10" fill="#e67e22">局限：流程固定</text>
+  <text x="280" y="205" font-size="10" fill="#e67e22">无法动态决策</text>
+
+  <text x="474" y="148" font-size="22" fill="#bbb">→</text>
+
+  <rect x="496" y="48" width="195" height="185" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <rect x="496" y="48" width="195" height="8" rx="10" fill="#e74c3c"/>
+  <text x="593" y="68" text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">第三层：AI Workflow</text>
+  <text x="593" y="84" text-anchor="middle" font-size="9" fill="#c0392b">含 Agent</text>
+  <text x="593" y="108" text-anchor="middle" font-size="12" font-weight="bold" fill="#e74c3c">Agent</text>
+  <text x="593" y="135" text-anchor="middle" font-size="10" fill="#555">感知 → 规划 → 工具调用</text>
+  <text x="593" y="150" text-anchor="middle" font-size="10" fill="#555">→ 反思 → 循环迭代</text>
+  <text x="513" y="172" font-size="10" fill="#888">示例：研究竞品并生成报告</text>
+  <text x="513" y="192" font-size="10" fill="#2ecc71">动态决策，可完成开放性任务</text>
+
+  <text x="360" y="248" text-anchor="middle" font-size="10" fill="#888">AI Workflow 是当前 AI 应用落地的主要范式，也是 AI Agent 的实现基础</text>
+</svg>
