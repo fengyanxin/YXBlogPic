@@ -1,0 +1,59 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif" style="max-width:100%;height:auto;">
+  <rect width="720" height="300" fill="#f8f9fa" rx="12"/>
+  <text x="360" y="26" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a1a2e">AI Workflow 解决的五大核心问题</text>
+
+  <rect x="18"  y="45" width="130" height="235" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.2"/>
+  <rect x="18"  y="45" width="130" height="6" rx="10" fill="#e74c3c"/>
+  <text x="83" y="72"  text-anchor="middle" font-size="13" font-weight="bold" fill="#c0392b">任务分解</text>
+  <text x="30" y="95"  font-size="9.5" fill="#555">将复杂任务拆解</text>
+  <text x="30" y="109" font-size="9.5" fill="#555">为多个小步骤</text>
+  <text x="30" y="123" font-size="9.5" fill="#555">每步专注一件事</text>
+  <text x="30" y="148" font-size="9" fill="#aaa">写报告 → 调研+</text>
+  <text x="30" y="161" font-size="9" fill="#aaa">大纲+撰写+审校</text>
+  <text x="30" y="190" font-size="9" fill="#e74c3c">提升准确率</text>
+  <text x="30" y="203" font-size="9" fill="#e74c3c">降低单步压力</text>
+
+  <rect x="158" y="45" width="130" height="235" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.2"/>
+  <rect x="158" y="45" width="130" height="6" rx="10" fill="#f39c12"/>
+  <text x="223" y="72"  text-anchor="middle" font-size="13" font-weight="bold" fill="#e67e22">工具集成</text>
+  <text x="170" y="95"  font-size="9.5" fill="#555">调用搜索、数据库</text>
+  <text x="170" y="109" font-size="9.5" fill="#555">代码执行器、API</text>
+  <text x="170" y="123" font-size="9.5" fill="#555">等外部能力</text>
+  <text x="170" y="148" font-size="9" fill="#aaa">搜索引擎、计算器</text>
+  <text x="170" y="161" font-size="9" fill="#aaa">数据库、邮件服务</text>
+  <text x="170" y="190" font-size="9" fill="#e67e22">突破知识边界</text>
+  <text x="170" y="203" font-size="9" fill="#e67e22">连接真实世界</text>
+
+  <rect x="298" y="45" width="130" height="235" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.2"/>
+  <rect x="298" y="45" width="130" height="6" rx="10" fill="#2ecc71"/>
+  <text x="363" y="72"  text-anchor="middle" font-size="13" font-weight="bold" fill="#27ae60">迭代反思</text>
+  <text x="310" y="95"  font-size="9.5" fill="#555">AI 可以检验自身</text>
+  <text x="310" y="109" font-size="9.5" fill="#555">输出，发现问题后</text>
+  <text x="310" y="123" font-size="9.5" fill="#555">重新尝试修正</text>
+  <text x="310" y="148" font-size="9" fill="#aaa">生成代码 → 运行</text>
+  <text x="310" y="161" font-size="9" fill="#aaa">→ 报错 → 修复</text>
+  <text x="310" y="190" font-size="9" fill="#2ecc71">自动纠错</text>
+  <text x="310" y="203" font-size="9" fill="#2ecc71">质量更有保障</text>
+
+  <rect x="438" y="45" width="130" height="235" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.2"/>
+  <rect x="438" y="45" width="130" height="6" rx="10" fill="#3498db"/>
+  <text x="503" y="72"  text-anchor="middle" font-size="13" font-weight="bold" fill="#2980b9">并行处理</text>
+  <text x="450" y="95"  font-size="9.5" fill="#555">多个子任务同时</text>
+  <text x="450" y="109" font-size="9.5" fill="#555">执行，不必排队</text>
+  <text x="450" y="123" font-size="9.5" fill="#555">等待前一步完成</text>
+  <text x="450" y="148" font-size="9" fill="#aaa">同时分析财务</text>
+  <text x="450" y="161" font-size="9" fill="#aaa">技术、市场三维度</text>
+  <text x="450" y="190" font-size="9" fill="#3498db">大幅提升效率</text>
+  <text x="450" y="203" font-size="9" fill="#3498db">节省运行时间</text>
+
+  <rect x="578" y="45" width="130" height="235" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.2"/>
+  <rect x="578" y="45" width="130" height="6" rx="10" fill="#9b59b6"/>
+  <text x="643" y="72"  text-anchor="middle" font-size="13" font-weight="bold" fill="#8e44ad">可观测性</text>
+  <text x="590" y="95"  font-size="9.5" fill="#555">每一步的输入输出</text>
+  <text x="590" y="109" font-size="9.5" fill="#555">都可以被记录</text>
+  <text x="590" y="123" font-size="9.5" fill="#555">监控和调试</text>
+  <text x="590" y="148" font-size="9" fill="#aaa">日志、追踪</text>
+  <text x="590" y="161" font-size="9" fill="#aaa">错误定位</text>
+  <text x="590" y="190" font-size="9" fill="#9b59b6">生产级别可靠</text>
+  <text x="590" y="203" font-size="9" fill="#9b59b6">便于排查问题</text>
+</svg>
