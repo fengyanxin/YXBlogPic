@@ -1,0 +1,39 @@
+<svg viewBox="0 0 680 140" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif" style="max-width:100%;height:auto;">
+  <rect width="680" height="140" fill="#f8f9fa" rx="12"/>
+  <text x="340" y="24" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a1a2e">模式一：顺序链（Sequential Chain）</text>
+
+  <rect x="18" y="45" width="90" height="60" rx="8" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1.5"/>
+  <text x="63" y="72" text-anchor="middle" font-size="11" fill="#2c3e50" font-weight="bold">输入</text>
+  <text x="63" y="88" text-anchor="middle" font-size="9" fill="#777">用户原始</text>
+  <text x="63" y="100" text-anchor="middle" font-size="9" fill="#777">英文文章</text>
+
+  <polygon points="110,75 125,68 125,82" fill="#bbb"/>
+
+  <rect x="128" y="45" width="105" height="60" rx="8" fill="#fdecea" stroke="#e74c3c" stroke-width="1.5"/>
+  <text x="180" y="67" text-anchor="middle" font-size="10" font-weight="bold" fill="#c0392b">Step 1 翻译</text>
+  <text x="180" y="81" text-anchor="middle" font-size="9" fill="#555">英文→中文</text>
+  <text x="180" y="95" text-anchor="middle" font-size="9" fill="#555">GPT-4o</text>
+
+  <polygon points="235,75 250,68 250,82" fill="#bbb"/>
+
+  <rect x="253" y="45" width="105" height="60" rx="8" fill="#fef9ec" stroke="#f39c12" stroke-width="1.5"/>
+  <text x="305" y="67" text-anchor="middle" font-size="10" font-weight="bold" fill="#e67e22">Step 2 摘要</text>
+  <text x="305" y="81" text-anchor="middle" font-size="9" fill="#555">提炼核心观点</text>
+  <text x="305" y="95" text-anchor="middle" font-size="9" fill="#555">100字以内</text>
+
+  <polygon points="360,75 375,68 375,82" fill="#bbb"/>
+
+  <rect x="378" y="45" width="105" height="60" rx="8" fill="#eafaf1" stroke="#2ecc71" stroke-width="1.5"/>
+  <text x="430" y="67" text-anchor="middle" font-size="10" font-weight="bold" fill="#27ae60">Step 3 润色</text>
+  <text x="430" y="81" text-anchor="middle" font-size="9" fill="#555">优化表达</text>
+  <text x="430" y="95" text-anchor="middle" font-size="9" fill="#555">添加标题</text>
+
+  <polygon points="485,75 500,68 500,82" fill="#bbb"/>
+
+  <rect x="503" y="45" width="158" height="60" rx="8" fill="#eaf4fb" stroke="#3498db" stroke-width="1.5"/>
+  <text x="582" y="67" text-anchor="middle" font-size="11" fill="#2980b9" font-weight="bold">输出</text>
+  <text x="582" y="81" text-anchor="middle" font-size="9" fill="#555">精炼中文摘要</text>
+  <text x="582" y="95" text-anchor="middle" font-size="9" fill="#555">含标题与要点</text>
+
+  <text x="340" y="128" text-anchor="middle" font-size="10" fill="#888">每步输出自动成为下一步的输入，线性流转，逻辑清晰</text>
+</svg>
